@@ -9,6 +9,6 @@ import vercel from '@astrojs/vercel/serverless'
 export default defineConfig({
   site: "https://manueldurancl.vercel.app",
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
-  output: 'server',
+  output: 'hybrid',
   adapter: vercel(),
 })
