@@ -42,9 +42,9 @@ export default function Search({data}: Props) {
       {(query().length >= 2 && results().length >= 1) && (
         <div class="mt-12">
           <div class="text-sm uppercase mb-2">
-            Found {results().length} results for {`'${query()}'`}
+            Se encontraron {results().length} resultado(s) para {`'${query()}'`}
           </div>
-          <ul class="flex flex-col gap-3">
+          <ul class="flex flex-col gap-1">
             {results().map(result => (
               <li>
                 <ArrowCard entry={result} pill={true} />
