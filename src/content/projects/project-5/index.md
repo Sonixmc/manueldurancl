@@ -1,16 +1,13 @@
 ---
-title: "Project Five"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 29 2022"
-draft: false
+title: "Consultora TIC"
+summary: "Diseñador Grafico"
+date: "Jan 29 2024"
+draft: true
 tags:
-- Wordpress
-- Javascript
-- Typescript
-- Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+- Prestashop
+
+demoUrl: https://consultoratic.cl
+
 
 ---
 
