@@ -1,14 +1,19 @@
 ---
-title: "Consultora TIC"
-summary: "Diseñador Grafico"
+title: "Understudios"
+summary: "Venta de productos digitales"
 date: "Jan 29 2024"
-draft: true
+draft: false
 tags:
-- Prestashop
+- Astro
+- Javascript
+- Mysql
+- Tailwind
 
-demoUrl: https://consultoratic.cl
+
+demoUrl: https://us-lime.vercel.app
+repoUrl: https://github.com/DevNuxCode/us
 
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+US es una aplicación web creada con astro centrada en mostrar contenido musical y digital. Funciona con MYSQL para su api. 
